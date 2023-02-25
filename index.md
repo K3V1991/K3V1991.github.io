@@ -46,6 +46,7 @@
 - [Disable Firefox Telemetry and Data Collection](https://github.com/K3V1991/Disable-Firefox-Telemetry-and-Data-Collection)
 - [Disable WebRTC in Chrome, Firefox, Safari, Opera & Edge](https://github.com/K3V1991/How-to-disable-WebRTC-in-Chrome-Firefox-Safari-Opera-and-Edge)
 - [LibreWolf - Twitch - Your browser is not currently supported. Please use an recommended browser](https://github.com/K3V1991/LibreWolf-Disable-ResistFingerprinting-to-log-in-to-Twitch)
+- [Disable VBS/HVCI to increase Performance in Windows 11](https://github.com/K3V1991/How-to-disable-VBS_HVCI)
 - [Fix white or blank Icons on the Windows 10 and 11 Desktop or Taskbar)](https://github.com/K3V1991/Fix-white-or-blank-Icons-Windows-10-and-11)
 - [Create a Desktop Shortcut for Windows Store Apps](https://github.com/K3V1991/Create-Desktop-Shortcut-Windows-Store-Apps)
 - [Install Seamless Co-op Mod for Elden Ring](https://github.com/K3V1991/How-to-install-Seamless-Co-Op-Mod-for-Elden-Ring)
