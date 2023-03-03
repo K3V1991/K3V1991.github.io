@@ -55,7 +55,7 @@
 ## 🗹 Fixes:
 - [ADB and Fastboot - Not able to connect Android Device](https://github.com/K3V1991/Not-able-to-connect-Android-Device-ADB-and-Fastboot)
 - [Device not connecting to PC in Fastboot Mode](https://github.com/K3V1991/Device-not-connecting-to-PC-in-Fastboot-Mode)
-- [This Device isn’t Play Protect certified](https://github.com/K3V1991/Fix-This-Device-isnt-Play-Protect-certified)
+- [This Device isn't Play Protect certified](https://github.com/K3V1991/Fix-This-Device-isnt-Play-Protect-certified)
 - [Firefox SSL_ERROR_RX_RECORD_TOO_LONG Error](https://github.com/K3V1991/Fix-Firefox-SSL_ERROR_RX_RECORD_TOO_LONG-Error)
 - [Game does not launch - Intel 10th Gen CPU or newer](https://github.com/K3V1991/Game-does-not-launch-Intel-CPU-Fix)
 
