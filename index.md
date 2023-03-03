@@ -5,6 +5,7 @@
 <br />
 
 ## ✅ Android How-To's:
+- [Fix Netflix Error 15001 on rooted Phones](https://github.com/K3V1991/How-to-fix-Netflix-Error-15001)
 - [Updating the Nothing Phone (1)](https://github.com/K3V1991/Updating-the-Nothing-Phone-_1_)
 - [Safe rooting the Nothing Phone (1)](https://github.com/K3V1991/Safe-rooting-the-Nothing-Phone-_1_)
 - [Unlock Bootloader using Fastboot on Android](https://github.com/K3V1991/How-to-unlock-Android-Bootloader)
