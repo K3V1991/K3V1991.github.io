@@ -72,8 +72,7 @@
 <br>
 <br>
 
-<img src="https://github.com/K3V1991/K3V1991.github.io/blob/main/Anime-Girl-Donation.png" width="200"></a>
-<br>
+![Anime-Girl-Donation](https://imgur.com/mtse0Zi.png) <br>
 [Clickable Badges on my Profile](https://github.com/K3V1991)
 <br>
 <br>
