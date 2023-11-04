@@ -69,10 +69,15 @@
 - [QuickTime Files for qaac CLI QuickTime AAC/ALAC Encoder](https://github.com/K3V1991/QuickTime-Files-for-qaac)
 - [Xbox Emulator Files](https://github.com/K3V1991/Xbox-Emulator-Files)
 - [OxygenOS Updates for the OnePlus 7T Pro (EU, HD1913) + Extras](https://github.com/K3V1991/OnePlus-7T-Pro-OxygenOS-Updates-and-Extras-EU-HD1913)
-
-## 🩸 Donations:
-- [Profile](https://github.com/K3V1991)
 <br>
+<br>
+
+<img src="https://github.com/K3V1991/K3V1991.github.io/blob/main/Anime-Girl-Donation.png" width="200"></a>
+<br>
+[Clickable Badges on my Profile](https://github.com/K3V1991)
+<br>
+<br>
+<hr />
 
 ## 🐾 Visitors
 ![:K3V1991](https://count.getloli.com/get/@:K3V1991?theme=rule34)
